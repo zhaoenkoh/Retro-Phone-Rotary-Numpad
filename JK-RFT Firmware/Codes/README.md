@@ -422,7 +422,7 @@ Overall architecture:
 ## Quick Pin Reference
 
 ```text
-I2S
+2 x MAX98357A AMPLIFIER I2S Shared
 GP19 = LRC
 GP20 = BCLK
 GP21 = DIN
