@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A,1,USB_C_Receptacle_USB2.0_16P,
+J2,JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical,1,Conn_01x04,
+"R1, R2",0603,2,5.1K,
+U1,SOT-23-6,1,USBLC6-2SC6,

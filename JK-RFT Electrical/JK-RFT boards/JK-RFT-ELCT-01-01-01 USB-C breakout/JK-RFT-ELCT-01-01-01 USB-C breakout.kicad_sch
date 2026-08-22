@@ -2182,6 +2182,46 @@
 		)
 		(uuid "fde00c8e-e5ea-443a-8c1f-85f5ef2895b4")
 	)
+	(label "Di-"
+		(at 85.09 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "16c31206-6bbf-469a-b18c-4a99d6d70b3c")
+	)
+	(label "Do-"
+		(at 110.49 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "341687e3-2b81-4d3b-9904-82f331e43eae")
+	)
+	(label "Di+"
+		(at 85.09 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3a1859d0-9d45-4d43-bdd3-8a262c274978")
+	)
+	(label "Do+"
+		(at 110.49 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8f109e58-d865-4f9d-9f94-d15c126dca00")
+	)
 	(symbol
 		(lib_id "Power_Protection:USBLC6-2SC6")
 		(at 101.6 69.85 0)
