@@ -7,7 +7,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 5.08 12.7 0)
+			(at 5.08 10.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51,8 +51,8 @@
 		)
 		(symbol "MAX98357A_AA_module_0_1"
 			(rectangle
-				(start -7.62 11.43)
-				(end 7.62 -11.43)
+				(start -7.62 8.89)
+				(end 7.62 -8.89)
 				(stroke
 					(width 0)
 					(type default)
@@ -64,7 +64,7 @@
 		)
 		(symbol "MAX98357A_AA_module_1_1"
 			(pin passive line
-				(at -10.16 7.62 0)
+				(at -10.16 5.08 0)
 				(length 2.54)
 				(name "LRC"
 					(effects
@@ -73,25 +73,7 @@
 						)
 					)
 				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -10.16 5.08 0)
-				(length 2.54)
-				(name "BCLK"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
+				(number "7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -102,14 +84,14 @@
 			(pin passive line
 				(at -10.16 2.54 0)
 				(length 2.54)
-				(name "DIN"
+				(name "BCLK"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "3"
+				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -119,6 +101,24 @@
 			)
 			(pin passive line
 				(at -10.16 0 0)
+				(length 2.54)
+				(name "DIN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -10.16 -2.54 0)
 				(length 2.54)
 				(name "GAIN"
 					(effects
@@ -136,7 +136,7 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -2.54 0)
+				(at -10.16 -5.08 0)
 				(length 2.54)
 				(name "SD"
 					(effects
@@ -145,7 +145,7 @@
 						)
 					)
 				)
-				(number "5"
+				(number "3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -154,25 +154,7 @@
 				)
 			)
 			(pin passive line
-				(at -10.16 -5.08 0)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -10.16 -7.62 0)
+				(at 10.16 1.27 180)
 				(length 2.54)
 				(name "VIN"
 					(effects
@@ -181,7 +163,25 @@
 						)
 					)
 				)
-				(number "7"
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 10.16 -1.27 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)

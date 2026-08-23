@@ -73,7 +73,7 @@
 						)
 					)
 				)
-				(number "1"
+				(number "7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -91,7 +91,7 @@
 						)
 					)
 				)
-				(number "2"
+				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -109,7 +109,7 @@
 						)
 					)
 				)
-				(number "3"
+				(number "5"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -145,7 +145,7 @@
 						)
 					)
 				)
-				(number "5"
+				(number "3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -163,7 +163,7 @@
 						)
 					)
 				)
-				(number "7"
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -181,7 +181,7 @@
 						)
 					)
 				)
-				(number "6"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
