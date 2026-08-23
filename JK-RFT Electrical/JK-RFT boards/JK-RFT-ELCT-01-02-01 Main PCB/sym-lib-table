@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MicroSD")(type "KiCad")(uri "C:/Users/tripl/OneDrive - Singapore University of Technology and Design/02.1_Git Projects/PSL-JK-RTF/Retro Phone Rotary Numpad/JK-RFT Electrical/References/Self-made Lib/MicroSD.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX98357A AA Module")(type "KiCad")(uri "C:/Users/tripl/OneDrive - Singapore University of Technology and Design/02.1_Git Projects/PSL-JK-RTF/Retro Phone Rotary Numpad/JK-RFT Electrical/References/Self-made Lib/MAX98357A AA Module.kicad_sym")(options "")(descr ""))
+)
