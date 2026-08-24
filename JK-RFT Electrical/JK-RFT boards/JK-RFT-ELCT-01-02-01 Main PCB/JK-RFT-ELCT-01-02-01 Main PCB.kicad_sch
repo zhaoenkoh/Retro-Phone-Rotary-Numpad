@@ -3071,6 +3071,10 @@
 		(uuid "48229797-12fa-4eee-9d25-a839272133a3")
 	)
 	(no_connect
+		(at 165.1 66.04)
+		(uuid "5293efde-fccf-4879-96e1-627168ab6c7a")
+	)
+	(no_connect
 		(at 214.63 104.14)
 		(uuid "5f4c76d0-528b-4cfa-afe9-fb0abfe1c45d")
 	)
@@ -3081,6 +3085,10 @@
 	(no_connect
 		(at 240.03 72.39)
 		(uuid "984555c0-66bf-4fbe-b55c-dffd77c87652")
+	)
+	(no_connect
+		(at 165.1 68.58)
+		(uuid "9bda872c-a5eb-4526-a636-1e419d605798")
 	)
 	(no_connect
 		(at 168.91 76.2)
@@ -3251,16 +3259,6 @@
 			(type default)
 		)
 		(uuid "0b8d8dc6-e56d-47a2-ba9f-a680c358af0d")
-	)
-	(wire
-		(pts
-			(xy 43.18 176.53) (xy 50.8 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ce74735-3f45-4834-be33-53e7ecd310ff")
 	)
 	(wire
 		(pts
@@ -3691,16 +3689,6 @@
 			(type default)
 		)
 		(uuid "545f60d3-a023-44ab-ad42-6aac52695a2d")
-	)
-	(wire
-		(pts
-			(xy 43.18 168.91) (xy 45.72 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "560a60ef-db1a-4bc9-a286-50c0bfc19bf4")
 	)
 	(wire
 		(pts
@@ -4144,16 +4132,6 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 168.91) (xy 45.72 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a78ae317-c3fb-4308-8ab9-ed542693215d")
-	)
-	(wire
-		(pts
 			(xy 80.01 71.12) (xy 80.01 76.2)
 		)
 		(stroke
@@ -4464,16 +4442,6 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 171.45) (xy 50.8 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cefb9335-7c47-4ec6-a80d-036f81aebd48")
-	)
-	(wire
-		(pts
 			(xy 165.1 116.84) (xy 168.91 116.84)
 		)
 		(stroke
@@ -4761,16 +4729,6 @@
 			(type default)
 		)
 		(uuid "e8132f19-b6e9-48f4-9e22-144f4638c765")
-	)
-	(wire
-		(pts
-			(xy 43.18 173.99) (xy 50.8 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eabdeac8-d924-4bef-a642-00304f0aacfd")
 	)
 	(wire
 		(pts
@@ -5082,16 +5040,6 @@
 		)
 		(uuid "49b431b6-b379-4025-a2ba-eee5b24d9ac3")
 	)
-	(label "RUN"
-		(at 50.8 176.53 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4a97833d-ea5b-43d5-aa2d-537509901a22")
-	)
 	(label "N8"
 		(at 88.9 99.06 0)
 		(effects
@@ -5182,16 +5130,6 @@
 		)
 		(uuid "84d510f3-eb98-42d5-bd8f-891f2cccd0b2")
 	)
-	(label "SWCLK"
-		(at 50.8 171.45 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "861b7e63-e099-4eef-ba25-cc87c70f097a")
-	)
 	(label "DIVIDE"
 		(at 85.09 152.4 0)
 		(effects
@@ -5201,16 +5139,6 @@
 			(justify left bottom)
 		)
 		(uuid "88fca101-b44d-4ad2-906d-173d5869bf6a")
-	)
-	(label "SWDIO"
-		(at 50.8 173.99 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8d06ceb1-368d-49ef-a270-e2df0b471838")
 	)
 	(label "RUN"
 		(at 137.16 29.21 0)
@@ -5282,16 +5210,6 @@
 		)
 		(uuid "c334f716-3d6c-46a8-9f49-4df3738d6df0")
 	)
-	(label "SWDIO"
-		(at 165.1 68.58 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c7e95306-b839-43c5-8919-70e0b68bfed6")
-	)
 	(label "N3"
 		(at 50.8 73.66 0)
 		(effects
@@ -5321,16 +5239,6 @@
 			(justify right bottom)
 		)
 		(uuid "d52afe79-fd5f-4fee-ae74-7cd063e1c419")
-	)
-	(label "SWCLK"
-		(at 165.1 66.04 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "dae25648-890e-4f1c-b213-1f0c4a0b6db4")
 	)
 	(label "N0"
 		(at 88.9 111.76 0)
@@ -5771,72 +5679,6 @@
 			(project "JK-RFT-ELCT-01-02-01 Main PCB"
 				(path "/8875e8fa-6bed-4959-b229-7df4163389c9"
 					(reference "J6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 45.72 180.34 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "16e14380-75c6-46cf-92c1-34bcb496b5b0")
-		(property "Reference" "#PWR020"
-			(at 45.72 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 45.72 185.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 45.72 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 45.72 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 45.72 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "024f72f4-c7e9-4806-8700-0c682b902e66")
-		)
-		(instances
-			(project "JK-RFT-ELCT-01-02-01 Main PCB"
-				(path "/8875e8fa-6bed-4959-b229-7df4163389c9"
-					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -6323,79 +6165,6 @@
 			(project "JK-RFT-ELCT-01-02-01 Main PCB"
 				(path "/8875e8fa-6bed-4959-b229-7df4163389c9"
 					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
-		(at 38.1 171.45 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3a49066f-5527-4918-93ed-43acf106f374")
-		(property "Reference" "J18"
-			(at 35.56 171.196 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "DEBUG"
-			(at 34.036 173.736 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical"
-			(at 38.1 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 38.1 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 38.1 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "b4cf4a7a-155c-4494-943c-b7fb71a80336")
-		)
-		(pin "3"
-			(uuid "c1baf2d9-c755-48dd-a788-b8b08d3ed201")
-		)
-		(pin "1"
-			(uuid "f835dc95-dbde-403b-96e7-b02b52e39024")
-		)
-		(pin "2"
-			(uuid "cbb07aff-a54f-4754-8f6d-622b21364ebf")
-		)
-		(instances
-			(project "JK-RFT-ELCT-01-02-01 Main PCB"
-				(path "/8875e8fa-6bed-4959-b229-7df4163389c9"
-					(reference "J18")
 					(unit 1)
 				)
 			)

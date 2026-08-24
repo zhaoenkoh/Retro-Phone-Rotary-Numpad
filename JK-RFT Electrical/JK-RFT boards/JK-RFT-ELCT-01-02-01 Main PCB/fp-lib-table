@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "MAX98357A AA module")(type "KiCad")(uri "C:/Users/tripl/OneDrive - Singapore University of Technology and Design/02.1_Git Projects/PSL-JK-RTF/Retro Phone Rotary Numpad/JK-RFT Electrical/References/MAX98357A AA module")(options "")(descr ""))
   (lib (name "uSD Card Reader Module")(type "KiCad")(uri "C:/Users/tripl/OneDrive - Singapore University of Technology and Design/02.1_Git Projects/PSL-JK-RTF/Retro Phone Rotary Numpad/JK-RFT Electrical/References/uSD Card Reader Module")(options "")(descr ""))
+  (lib (name "Documents")(type "KiCad")(uri "C:/Users/tripl/OneDrive - Singapore University of Technology and Design/02.1_Git Projects/PSL-JK-RTF/Retro Phone Rotary Numpad/JK-RFT Electrical/Documents")(options "")(descr ""))
 )
