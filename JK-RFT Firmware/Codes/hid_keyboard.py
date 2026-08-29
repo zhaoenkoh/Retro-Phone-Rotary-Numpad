@@ -87,4 +87,12 @@ def send_keypad_asterisk():
 
     keyboard.release_all()
     
+#send enter
     
+def send_enter():
+
+    keyboard.press(
+        Keycode.ENTER
+    )
+
+    keyboard.release_all()

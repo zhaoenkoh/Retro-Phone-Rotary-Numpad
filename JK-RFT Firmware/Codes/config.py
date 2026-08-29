@@ -66,10 +66,10 @@ LED_PIN = board.GP1
 # ============================================================
 
 # Speaker amplifier
-SPEAKER_ENABLE_PIN = board.GP17
+SPEAKER_ENABLE_PIN = board.GP18
 
 # Handset amplifier
-HANDSET_ENABLE_PIN = board.GP18
+HANDSET_ENABLE_PIN = board.GP17
 
 
 # ============================================================
@@ -97,7 +97,7 @@ SD_CS = board.GP5
 
 AUDIO_DIRECTORY = "/sd/audio"
 
-VOLUME = 0.2
+VOLUME = 0.4
 
 SPEAKER_MODE_HOLD_TIME = 3.0
 
